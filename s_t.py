@@ -84,7 +84,7 @@ st.markdown(
 
 # 🌺 ENCABEZADO PRINCIPAL
 st.title("🌷 Traductor Dorado")
-st.subheader("✨ Escucho lo que dices y lo traduzco con estilo ✨")
+st.subheader("✨ Escucho lo que dices y lo traduzco ✨")
 
 # Imagen decorativa (asegúrate de tener una imagen floral o dorada)
 if os.path.exists("OIG7.jpg"):
