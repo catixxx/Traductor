@@ -11,7 +11,7 @@ from googletrans import Translator
 
 # 🌸 CONFIGURACIÓN DE PÁGINA
 st.set_page_config(
-    page_title="🌷 Traductor Dorado",
+    page_title="🌷 Traductor ",
     page_icon="🌸",
     layout="centered",
     initial_sidebar_state="expanded"
