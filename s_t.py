@@ -87,11 +87,11 @@ st.title("🌷 Traductor Dorado")
 st.subheader("✨ Escucho lo que dices y lo traduzco ✨")
 
 # Imagen decorativa (asegúrate de tener una imagen floral o dorada)
-if os.path.exists("OIG7.jpg"):
-    image = Image.open("OIG7.jpg")
+if os.path.exists("traductor.jpg"):
+    image = Image.open("traductor.jpg")
     st.image(image, width=300)
 else:
-    st.info("Sube una imagen decorativa llamada 'OIG7.jpg' para personalizar el diseño 🌸")
+    st.info("Sube una imagen decorativa llamada 'traductor.jpg' para personalizar el diseño 🌸")
 
 # 🌼 PANEL LATERAL
 with st.sidebar:
